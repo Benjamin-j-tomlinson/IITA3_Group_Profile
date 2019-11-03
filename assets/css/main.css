@@ -1519,7 +1519,7 @@ hr {
 
 	#header {
 		position: relative;
-		background: #3B4346 url("images/bg01.jpg");
+		background: #cbd1d6 url("images/bg01.jpg");
 		border-bottom: solid 1px #272d30;
 		box-shadow: inset 0px -1px 0px 0px #51575a;
 		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
@@ -1572,7 +1572,7 @@ hr {
 		box-shadow: inset 0px 1px 0px 0px #3e484a;
 		padding: 35px 0 35px 0;
 		color: #ffffff;
-		background-color: #d8e1eb;
+		
 	}
 
 		#banner .bordered-feature-image {
